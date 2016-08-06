@@ -19,13 +19,13 @@ I use a 40 watt Full Spectrum laser cutter with the following settings...
 
 The different colors represent...
 
-|Color|What|
-|-|-|
-|Red|Holes that LED leads go though|
-|Blue|Markings|
-|Yellow|SCoring for fold lines|
-|Green|Outline cut|
-|Magenta|Final panel cut|
+| Color | What |
+| --- | --- |
+| Red | Holes that LED leads go though |
+| Blue | Markings |
+| Yellow | Scoring for fold lines |
+| Green | Outline cut |
+| Magenta | Final panel cut |
 
 ### Material
 
