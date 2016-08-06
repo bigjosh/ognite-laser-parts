@@ -9,7 +9,7 @@ http://ognite.com/
 
 The `parts` directory contains the individual design files for each part (i.e. box cover, box drawer, etc.). 
 
-The `final` directory contains ready-to-cut sheets with bot a single Ognite and a penel of 4 Ognites. 
+The `final` directory contains ready-to-cut sheets, including multi-unit production panels.
 
 ### How to cut
 
